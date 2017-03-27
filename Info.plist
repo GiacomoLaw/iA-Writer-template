@@ -7,9 +7,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.example.template</string>
+	<string>com.thenerdystudent.template</string>
 	<key>CFBundleName</key>
-	<string>Example</string>
+	<string>Giacomo's template</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -27,10 +27,10 @@
 	<key>IATemplateHeaderHeight</key>
 	<integer>90</integer>
 	<key>IATemplateDescription</key>
-	<string>Example template.</string>
+	<string>Giacomo's iA Writer Template.</string>
 	<key>IATemplateAuthor</key>
-	<string>Example</string>
+	<string>Giacomo Lawrance</string>
 	<key>IATemplateAuthorURL</key>
-	<string>https://example.com</string>
+	<string>https://thenerdystudent.com</string>
 </dict>
 </plist>
